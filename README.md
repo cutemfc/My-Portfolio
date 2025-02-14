@@ -10,10 +10,13 @@ I am currently studying Python at Masterschool, leveraging my biotechnological b
 <hr style="border":
   
 ## Table of Contents
-[About me]Linkin Profile
+-[About me](https://www.linkedin.com/in/mei-fang-chen-768b8a162/)
 
+-[Portfolio Projects](#portfolio-projects)
+ -[1.Unicorn Company:Data Exploration & Insight (SQL+Tableau+ Google Sheets)](https://colab.research.google.com/drive/1pDa-t1w9gLZ9nGfWTpLzXUuZ50DQdFms?hl=en)
+ -[2.Car Data Analysis(Python)](https://colab.research.google.com/drive/1FrNVUEzzB8w-M3ELN_enFvduI_PM8k8A?hl=en) 
 
-[Education]
+-[Education]
 Education:
 •	Data Analysis Trainee, Masterschool (2024.9 - Present)
 o	Visualization Tool Learning: Tableau
@@ -33,7 +36,7 @@ o Paper: Chen MF, Wang JD, Su TM. Concentration gradient effects of sodium and l
 
 
 
-[Projects]
 
 
-[Certificates]
+-[Certificates]
+-[Contact]
