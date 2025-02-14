@@ -52,8 +52,26 @@ o Paper: Chen MF, Wang JD, Su TM. Concentration gradient effects of sodium and l
 
  ## 1. Unicorn Company: Data Exploration & Insights(SQL +Tableau+ Google Sheets)
  ### Goal: 
-Conduct comprehensive data analysis using SQL and develop an executive-level dashboard with Tableau to deliver insights and business recommendations.
+This project aims to provide data analysis insights for Unicorn, with the goal of significantly driving growth and development, as well as enhancing customer satisfaction
  ### Descriptions:
  The projects involved exploring Unicorn Company's sales, profit and customer data using SQL queries and transforming the insights into an actionable Tableau dashboard. We focused on identifying high-performing regions, products, and customer segments.
  #### Part I: Data Exploration with SQL
- #### PartII:
+ #### Part II: Visidualization the Data
+ #### Key Insights
+  1. Identified the most profitable cities, customer types, and products across different regions.
+  2. Highlighted potential areas for bussiness growth in East and South regions.
+  3. Recommended to refine discount strategies and increase the customer numbers in home office segment as well as improve the   delivery efficiency.  
+ #### Results
+ -[Tableau Public Dashboard](https://public.tableau.com/app/profile/mei.fang.chen/viz/Unicorndata/Lebanonprofit)
+ 
+ -[SQL Queries](https://colab.research.google.com/drive/1pDa-t1w9gLZ9nGfWTpLzXUuZ50DQdFms?hl=en)
+
+## 2 Car Data Analysis(Python)
+ ### Goal: 
+ This project involves data cleaning, transforming and analyzing a dataset of car specifications and pricing to uncover market trends and relationships.
+ ### Description:
+ This project involved data cleaning, feature engineering, and exploratory analysis of a car dataset, which included details such as car models, engine specifications, fuel types, and prices.
+ ### Key tasks:
+  1.Cleaned and handled missing data, standardized text formats and filtered cars from 1995 and later.
+  2.Created new features, such as Total MPG and Price per Horsepower for deeer analysing.
+  3.Conducted 
