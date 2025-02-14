@@ -1,5 +1,5 @@
 # ☘️Mei-Fang Chen  -Data Analyst Portfolio
-Hi, I am Mei-Fang with a background in data analysis and a passion for turning data into actionable insights. I am constantly solving real-world problem by SQL, Python, R, Excel and Visualization Tableau and Bower BI. I am enjoying exploring patterns, trends and bussiness oppournities hidden within data.
+Hi, I’m Mei-Fang, a data analyst with a passion for transforming data into actionable insights. I specialize in solving real-world problems using SQL, Python, R, Excel, and visualization tools like Tableau. I thrive on uncovering patterns, trends, and business opportunities hidden within data.
 Whether working independently on teams, I focus on impactful analyses, storytelling and building  meaningful solution for business growth. On this Github, you will find some of my exciting data analytics projects. Let's explore together.
 
 <hr style="border":2px solid gray;">
@@ -51,27 +51,44 @@ o Paper: Chen MF, Wang JD, Su TM. Concentration gradient effects of sodium and l
  #  🌍Portfolio Projects
 
  ## 1. Unicorn Company: Data Exploration & Insights(SQL +Tableau+ Google Sheets)
- ### Goal: 
+ #### Goal: 
 This project aims to provide data analysis insights for Unicorn, with the goal of significantly driving growth and development, as well as enhancing customer satisfaction
- ### Descriptions:
+ #### Descriptions:
  The projects involved exploring Unicorn Company's sales, profit and customer data using SQL queries and transforming the insights into an actionable Tableau dashboard. We focused on identifying high-performing regions, products, and customer segments.
  #### Part I: Data Exploration with SQL
- #### Part II: Visidualization the Data
+ 1. Explore the Unicorn data using SQL to answer critical questions about scales, profits and customer types.
+ 2. Cleaned and joined tables, performed aggregations, ranked cities, products and regions by their performance.
+ #### Part II: Analysis with Google Sheets
+ Used pivot tables, created calculated columns(e.g.price per unit), and highlighted underperforming regions using conditional formatting.
+ #### Part III: Insight & Dashboard  with Tableau
+  Created a Tableau dashboard to present key insights, trends and actionable recommendations for bussiness-decision making.
  #### Key Insights
   1. Identified the most profitable cities, customer types, and products across different regions.
   2. Highlighted potential areas for bussiness growth in East and South regions.
-  3. Recommended to refine discount strategies and increase the customer numbers in home office segment as well as improve the   delivery efficiency.  
+  3. Recommended to refine discount strategies and increase the customer numbers in home office segment as well as improve the   delivery efficiency.
+ #### skills: 
+ SQL: Data quering, joins, Data Manupulation/Data Query Language opeartions, subquery
+ Data cleaning and filtering
+ Tableau: Data visualization and dashboard building
+ Business insights and recommendation
  #### Results
  -[Tableau Public Dashboard](https://public.tableau.com/app/profile/mei.fang.chen/viz/Unicorndata/Lebanonprofit)
  
  -[SQL Queries](https://colab.research.google.com/drive/1pDa-t1w9gLZ9nGfWTpLzXUuZ50DQdFms?hl=en)
 
 ## 2 Car Data Analysis(Python)
- ### Goal: 
+ #### Goal: 
  This project involves data cleaning, transforming and analyzing a dataset of car specifications and pricing to uncover market trends and relationships.
- ### Description:
+ #### Description:
  This project involved data cleaning, feature engineering, and exploratory analysis of a car dataset, which included details such as car models, engine specifications, fuel types, and prices.
- ### Key tasks:
+ #### Key tasks:
   1.Cleaned and handled missing data, standardized text formats and filtered cars from 1995 and later.
   2.Created new features, such as Total MPG and Price per Horsepower for deeer analysing.
-  3.Conducted 
+  3.Conducted exploratory data analysis(EDA) to visualize key trends in car pricing, horsepower, and market size.
+  #### Skills:
+  1.Data cleaning and transformation(Pandas, Numpy)
+  2.Exploratory analysis and descriptive statistics
+  3. Correlation analysis
+  4. Data visualization(Matplotlib, Seaborn)
+  #### Technology:Python(Pandas, Numpy, Matplotlib, Seaborn)
+  #### Key Insights:
