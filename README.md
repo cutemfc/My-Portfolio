@@ -66,11 +66,12 @@ This project aims to provide data analysis insights for Unicorn, with the goal o
   1. Identified the most profitable cities, customer types, and products across different regions.
   2. Highlighted potential areas for bussiness growth in East and South regions.
   3. Recommended to refine discount strategies and increase the customer numbers in home office segment as well as improve the   delivery efficiency.
- #### skills: 
+ #### Skills: 
  SQL: Data quering, joins, Data Manupulation/Data Query Language opeartions, subquery
  Data cleaning and filtering
  Tableau: Data visualization and dashboard building
  Business insights and recommendation
+ #### technology: PostgresSQL, Tableau
  #### Results
  -[Tableau Public Dashboard](https://public.tableau.com/app/profile/mei.fang.chen/viz/Unicorndata/Lebanonprofit)
  
@@ -88,7 +89,13 @@ This project aims to provide data analysis insights for Unicorn, with the goal o
   #### Skills:
   1.Data cleaning and transformation(Pandas, Numpy)
   2.Exploratory analysis and descriptive statistics
-  3. Correlation analysis
+  3.Correlation analysis
   4. Data visualization(Matplotlib, Seaborn)
   #### Technology:Python(Pandas, Numpy, Matplotlib, Seaborn)
   #### Key Insights:
+  1. Show strong relationshoip between engine HP and price.
+  2. Show the relationship between the driven wheels and price.
+  3. Highlighted effiency trends across different transmission types.
+  4. 
+  #### Results:
+  [Car Data Analysis(Python)](https://colab.research.google.com/drive/1FrNVUEzzB8w-M3ELN_enFvduI_PM8k8A?hl=en)
