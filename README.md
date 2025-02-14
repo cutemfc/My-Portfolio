@@ -13,7 +13,10 @@ I am currently studying Python at Masterschool, leveraging my biotechnological b
 -[About me](https://www.linkedin.com/in/mei-fang-chen-768b8a162/)
 
 -[Portfolio Projects](#portfolio-projects)
- -[1.Unicorn Company:Data Exploration & Insight (SQL+Tableau+ Google Sheets)](https://colab.research.google.com/drive/1pDa-t1w9gLZ9nGfWTpLzXUuZ50DQdFms?hl=en)
+ -[1.Unicorn Company: Data Exploration & Insight (SQL+Tableau+ Google Sheets)](https://colab.research.google.com/drive/1pDa-t1w9gLZ9nGfWTpLzXUuZ50DQdFms?hl=en)       
+ 
+   -[Unicorn Presentation](https://www.youtube.com/watch?v=WqaI_SsmpoQ&t=33s)
+                                        
  -[2.Car Data Analysis(Python)](https://colab.research.google.com/drive/1FrNVUEzzB8w-M3ELN_enFvduI_PM8k8A?hl=en) 
 
 -[Education]
