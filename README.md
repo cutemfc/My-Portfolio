@@ -20,31 +20,20 @@ I am currently studying Python at Masterschool, leveraging my biotechnological b
                                         
  -[2.Car Data Analysis(Python)](https://colab.research.google.com/drive/1FrNVUEzzB8w-M3ELN_enFvduI_PM8k8A?hl=en) 
 
--[Education]
-Education:
-•	Data Analysis Trainee, Masterschool (2024.9 - Present)
-o	Visualization Tool Learning: Tableau
-o	Extract and Manipulate Data: SQL
-o	Programming: Python (A/B hypothesis, Conditional Probability, Statistics, Data Cleaning)
-
-•	MSc in Precision Medicine Diagnostics, Furtwangen University, Germany (2021.9 - 2023.7)
-o	Courses: R Programming, Biometrics and Multiparameter Diagnostics, Genomics, Molecular Diagnostics, Omics Technologies, Functional Genomics, High-Throughput Technologies
-o	Research Project: Genetic Markers for Precision Medicine
-o	Thesis: Meta-analysis of original omics analysis - Take gastric cancer as an example.
-
-•	Phd in Chemistry Department, Taiwan (2004.9 - 2007.7)
-o	Dean's Award of College of Science, National Taiwan University, Taiwan, 2007
-o	Thesis: Activity and Structure of H+ -ATP synthase from Chloroplast
-o Paper: Chen MF, Wang JD, Su TM. Concentration gradient effects of sodium and lithium ions and deuterium isotope effects on the activities of H+-ATP synthase from chloroplasts. Biophys J. 2009 Mar 18;96(6):2479-89. 
+-[Education](https://www.linkedin.com/in/mei-fang-chen-768b8a162/)
 
 
 
 
 
+[Certificates] 
 
--[Certificates]
+-[Catacamp Certificate](https://app.datacamp.com/learn/courses?technologies=2) : Python, Tableau, Google Sheets
 
--[Contact]
+-Contact: 
+
+ruthm.lin@gmail.com
+
 <hr style="border"::2px solid gray;">
 
 
@@ -77,6 +66,8 @@ This project aims to provide data analysis insights for Unicorn, with the goal o
  
  -[SQL Queries](https://colab.research.google.com/drive/1pDa-t1w9gLZ9nGfWTpLzXUuZ50DQdFms?hl=en)
 
+ -[Unicorn Presentation](https://www.youtube.com/watch?v=WqaI_SsmpoQ&t=33s)
+
 ## 2 Car Data Analysis(Python)
  #### Goal: 
  This project involves data cleaning, transforming and analyzing a dataset of car specifications and pricing to uncover market trends and relationships.
@@ -99,3 +90,5 @@ This project aims to provide data analysis insights for Unicorn, with the goal o
      
   #### Results:
   [Car Data Analysis(Python)](https://colab.research.google.com/drive/1FrNVUEzzB8w-M3ELN_enFvduI_PM8k8A?hl=en)
+  
+
