@@ -62,7 +62,9 @@ This project aims to provide data analysis insights for Unicorn, with the goal o
  #### Skills: 
  SQL: Data quering, joins, Data Manupulation/Data Query Language opeartions, subquery
  Data cleaning and filtering
+ 
  Tableau: Data visualization and dashboard building
+ 
  Business insights and recommendation
  #### technology: PostgresSQL, Tableau
  #### Results
@@ -100,11 +102,15 @@ This project aims to provide data analysis insights for Unicorn, with the goal o
    The project is to predict the class of vehicles (bus, van, and car) based on 18 numerical variable features.
   #### Description:
   This project involved data split, data cleaning (missing data, encoding and standarization), data exploratory, model fitting, and model evaluation of a cardataset.
-  #### key tasks:
+  #### Key tasks:
   1.Split the dataset and using supervised method to tain dataset
+  
   2.Clean data (missing data handling) and standardize the numerical variables and encode the categorical variables
+  
   3.Data Exploratory
+  
   4.Fit Models (Logistic Regression, K-Nearest Neighbors, Support Vector Machine and Random Forest)
+  
   5.Model Evaluation( accuracy, precision, recall, F1-score, ROC-AUC curve)
   #### Skills:
   1.Data split(sklearn)
