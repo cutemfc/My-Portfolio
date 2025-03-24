@@ -20,7 +20,11 @@ I am currently studying Python at Masterschool, leveraging my biotechnological b
                                         
  -[2.Car Data Analysis(Python)](https://colab.research.google.com/drive/1FrNVUEzzB8w-M3ELN_enFvduI_PM8k8A?hl=en) 
 
+ -[3.Vehicles prediction(Phthon, Machine Learning)](https://colab.research.google.com/drive/1btO44Ycf3yRjwxszp1B_pyHI9a9nOyMd#scrollTo=7X72SZ6hwILP)
+
 -[Education](https://www.linkedin.com/in/mei-fang-chen-768b8a162/)
+
+
 
 
 
@@ -68,7 +72,7 @@ This project aims to provide data analysis insights for Unicorn, with the goal o
 
  -[Unicorn Presentation](https://www.youtube.com/watch?v=WqaI_SsmpoQ&t=33s)
 
-## 2 Car Data Analysis(Python)
+## 2.Car Data Analysis(Python)
  #### Goal: 
  This project involves data cleaning, transforming and analyzing a dataset of car specifications and pricing to uncover market trends and relationships.
  #### Description:
@@ -90,5 +94,36 @@ This project aims to provide data analysis insights for Unicorn, with the goal o
      
   #### Results:
   [Car Data Analysis(Python)](https://colab.research.google.com/drive/1FrNVUEzzB8w-M3ELN_enFvduI_PM8k8A?hl=en)
-  
 
+  ## 3.Vehicle Prediction Project (Python, Machine Learning)
+  #### Goal:
+   The project is to predict the class of vehicles (bus, van, and car) based on 18 numerical variable features.
+  #### Description:
+  This project involved data split, data cleaning (missing data, encoding and standarization), data exploratory, model fitting, and model evaluation of a cardataset.
+  #### key tasks:
+  1.Split the dataset and using supervised method to tain dataset
+  2.Clean data (missing data handling) and standardize the numerical variables and encode the categorical variables
+  3.Data Exploratory
+  4.Fit Models (Logistic Regression, K-Nearest Neighbors, Support Vector Machine and Random Forest)
+  5.Model Evaluation( accuracy, precision, recall, F1-score, ROC-AUC curve)
+  #### Skills:
+  1.Data split(sklearn)
+  
+  2.Data Clean and Exploratory(numpy, pandas, and seaborn) and visualiztaion (matplotlib)
+  
+  3.Standardization the numeric variables (sklearn.preprocessing)
+  
+  4.Get modeling(sklearn)
+  
+  5.Model Evaluation(sklearn.metrics)
+  #### Technology: Phthon (Sklearn, numpy, pandas, seaborn, and matplotlib)
+  ### Key Insights:
+  1. Performance overviews: All parameters are above 90%, showing strong model performance overall.Random Forest and KNN exhibit the best values for accuracy, precision, recall, and F1-score.
+  2. ROC Analysis:Support Vector Machine (SVM) and Random Forest achieve the highest ROC value (0.996), showcasing their exceptional capability to distinguish between positive and negative samples.
+  3. Random Forest Details:The training accuracy, precision, recall, and F1-score for the Random Forest model are all 1.0 and parameters of test data are greater than 0.953.
+  4. Recommendations:
+     (1) For high accuracy and stability: KNN or Random Forest are the most suitable choices.
+     (2) For critical focus on ROC value (discrimination ability): SVM or Random Forest are recommended.
+     (3) For simplicity and interpretability: Logistic Regression remains a practical option.
+ #### Results
+[Vehicle Prediction (Python)](https://colab.research.google.com/drive/1btO44Ycf3yRjwxszp1B_pyHI9a9nOyMd?hl=en#scrollTo=7X72SZ6hwILP)
