@@ -122,7 +122,45 @@ This project aims to provide data analysis insights for Unicorn, with the goal o
   4.Get modeling(sklearn)
   
   5.Model Evaluation(sklearn.metrics)
-  #### Technology: Phthon (Sklearn, numpy, pandas, seaborn, and matplotlib)
+  #### Technology: Python (Sklearn, numpy, pandas, seaborn, and matplotlib)
+  ### Key Insights:
+  1. Performance overviews: All parameters are above 90%, showing strong model performance overall.Random Forest and KNN exhibit the best values for accuracy, precision, recall, and F1-score.
+  2. ROC Analysis:Support Vector Machine (SVM) and Random Forest achieve the highest ROC value (0.996), showcasing their exceptional capability to distinguish between positive and negative samples.
+  3. Random Forest Details:The training accuracy, precision, recall, and F1-score for the Random Forest model are all 1.0 and parameters of test data are greater than 0.953.
+  4. Recommendations:
+     (1) For high accuracy and stability: KNN or Random Forest are the most suitable choices.
+     (2) For critical focus on ROC value (discrimination ability): SVM or Random Forest are recommended.
+     (3) For simplicity and interpretability: Logistic Regression remains a practical option.
+ #### Results
+[Vehicle Prediction (Python)](https://colab.research.google.com/drive/1btO44Ycf3yRjwxszp1B_pyHI9a9nOyMd?hl=en#scrollTo=7X72SZ6hwILP)
+
+ ## 4.Travel Tide Reward Program Analysis and Optimization (SQL, Python, Machine Learning, Tableau)
+  #### Goal:
+ The primary mission of the Travel Tide Rewards Program is customer retention through targeted, data-driven reward allocation. The goal is to identify active 
+ users and provide personalized perks based on customer demographics and travel behaviors. 
+  #### Description:
+This project involved EDA, data preprocessing, feature eingering, pca reduction dimention and unsupervised machine learning (kmeans and DBscan) and integrate clusters   with the feature table.
+  #### Key tasks:
+  1.Split the dataset and using supervised method to tain dataset
+  
+  2.Clean data (missing data handling) and standardize the numerical variables and encode the categorical variables
+  
+  3.Data Exploratory
+  
+  4.Fit Models (Logistic Regression, K-Nearest Neighbors, Support Vector Machine and Random Forest)
+  
+  5.Model Evaluation( accuracy, precision, recall, F1-score, ROC-AUC curve)
+  #### Skills:
+  1.Data split(sklearn)
+  
+  2.Data Clean and Exploratory(numpy, pandas, and seaborn) and visualiztaion (matplotlib)
+  
+  3.Standardization the numeric variables (sklearn.preprocessing)
+  
+  4.Get modeling(sklearn)
+  
+  5.Model Evaluation(sklearn.metrics)
+  #### Technology: Python (Sklearn, numpy, pandas, seaborn, and matplotlib)
   ### Key Insights:
   1. Performance overviews: All parameters are above 90%, showing strong model performance overall.Random Forest and KNN exhibit the best values for accuracy, precision, recall, and F1-score.
   2. ROC Analysis:Support Vector Machine (SVM) and Random Forest achieve the highest ROC value (0.996), showcasing their exceptional capability to distinguish between positive and negative samples.
