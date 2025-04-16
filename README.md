@@ -202,11 +202,13 @@ This project involved EDA, data preprocessing, feature eingering, pca reduction 
    - Expand reach into the Canadian market
    - 
  #### Results
- -[Traveltide Reward program (SQL, Python](https://colab.research.google.com/drive/1hcyqhGfZZvuLybxj6MKz-MFjyC9x6ez_#scrollTo=MnYuqK56PPKq)
+ -[Traveltide Reward program (SQL, Python,Machine Learning](https://colab.research.google.com/drive/1hcyqhGfZZvuLybxj6MKz-MFjyC9x6ez_#scrollTo=MnYuqK56PPKq)
  
  -[Traveltide Presentation](https://youtu.be/hNdTDEOVoWc)
  
- -[Interactive Dashboard](
+ -[Interactive Dashboard](https://public.tableau.com/app/profile/mei.fang.chen/viz/Masteryproject/TravelTideReward)
+
+ -[Executive Summary](https://www.notion.so/Executive-Summary-revised-1d71062c5fba8091aeefc6ecf0d94c6e)
  
 
 
