@@ -32,7 +32,7 @@ I am currently studying Python at Masterschool, leveraging my biotechnological b
 
 [Certificates] 
 
--[Catacamp Certificate](https://app.datacamp.com/learn/courses?technologies=2) : Python, Tableau, Google Sheets
+-[Datacamp Certificate](https://app.datacamp.com/learn/courses?technologies=2) : Python, Tableau, Google Sheets
 
 -Contact: 
 
